@@ -26,3 +26,6 @@
 
 ### draw parallel	lines
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e9_turtle2.png)
+
+### if statements
+![](https://github.com/lbias/python-for-kids/blob/master/images/e10_if_statements.png)
