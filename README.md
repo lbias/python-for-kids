@@ -98,3 +98,6 @@
 
 ### sum function
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e33_sum_function.png)
+
+### range function
+![](https://github.com/lbias/python-for-kids/blob/master/images/e34_range_function.png)
