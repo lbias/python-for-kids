@@ -32,3 +32,6 @@
 
 ### conditions
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e11_conditions.png)
+
+### elif statements
+![](https://github.com/lbias/python-for-kids/blob/master/images/e12_elif_statements.png)
