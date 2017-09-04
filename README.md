@@ -35,3 +35,6 @@
 
 ### elif statements
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e12_elif_statements.png)
+
+### strings and numbers
+![](https://github.com/lbias/python-for-kids/blob/master/images/e13_strings_and_numbers.png)
