@@ -95,3 +95,6 @@
 
 ### max and min
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e32_max_and_min.png)
+
+### sum function
+![](https://github.com/lbias/python-for-kids/blob/master/images/e33_sum_function.png)
