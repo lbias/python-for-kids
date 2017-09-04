@@ -92,3 +92,6 @@
 
 ### len function
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e31_len_function.png)
+
+### max and min
+![](https://github.com/lbias/python-for-kids/blob/master/images/e32_max_and_min.png)
