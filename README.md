@@ -59,3 +59,6 @@
 
 ### calculate savings
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e20_savings.png)
+
+### test function
+![](https://github.com/lbias/python-for-kids/blob/master/images/e21_test_function1.png)
