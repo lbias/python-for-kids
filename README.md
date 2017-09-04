@@ -83,3 +83,6 @@
 
 ### write to a file
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e28_writing_to_a_file.png)
+
+### abs function
+![](https://github.com/lbias/python-for-kids/blob/master/images/e29_abs_function.png)
