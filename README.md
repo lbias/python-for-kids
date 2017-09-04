@@ -62,3 +62,6 @@
 
 ### test function
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e21_test_function1.png)
+
+### test function in two ways
+![](https://github.com/lbias/python-for-kids/blob/master/images/e22_test_function2.png)
