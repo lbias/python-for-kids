@@ -71,3 +71,6 @@
 
 ### your age
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e24_your_age.png)
+
+### three turtles
+![](https://github.com/lbias/python-for-kids/blob/master/images/e25_three_turtles.png)
