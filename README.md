@@ -47,3 +47,6 @@
 
 ### huge hairy pants using two for loops
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e16_huge_hairy_pants2.png)
+
+### magic coins using for loops
+![](https://github.com/lbias/python-for-kids/blob/master/images/e17_magic-coins2.png)
