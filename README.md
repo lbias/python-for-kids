@@ -65,3 +65,6 @@
 
 ### test function in two ways
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e22_test_function2.png)
+
+### spaceship building
+![](https://github.com/lbias/python-for-kids/blob/master/images/e23_spaceship_building.png)
