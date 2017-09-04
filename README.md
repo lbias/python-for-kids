@@ -53,3 +53,6 @@
 
 ### while loop multiple conditions
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e18_while-loop-multiple-conditions.png)
+
+### wizard list loop
+![](https://github.com/lbias/python-for-kids/blob/master/images/e19_wizard-list-loop.png)
