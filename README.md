@@ -74,3 +74,6 @@
 
 ### three turtles
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e25_three_turtles.png)
+
+### giraffes
+![](https://github.com/lbias/python-for-kids/blob/master/images/e26_giraffes1.png)
