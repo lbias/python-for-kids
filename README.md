@@ -38,3 +38,6 @@
 
 ### strings and numbers
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e13_strings_and_numbers.png)
+
+### five hellos using for
+![](https://github.com/lbias/python-for-kids/blob/master/images/e14_five_hellos.png)
