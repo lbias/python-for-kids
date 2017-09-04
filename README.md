@@ -50,3 +50,6 @@
 
 ### magic coins using for loops
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e17_magic-coins2.png)
+
+### while loop multiple conditions
+![](https://github.com/lbias/python-for-kids/blob/master/images/e18_while-loop-multiple-conditions.png)
