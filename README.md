@@ -29,3 +29,6 @@
 
 ### if statements
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e10_if_statements.png)
+
+### conditions
+![](https://github.com/lbias/python-for-kids/blob/master/images/e11_conditions.png)
