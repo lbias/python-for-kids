@@ -89,3 +89,6 @@
 
 ### exec function
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e30_exec_function.png)
+
+### len function
+![](https://github.com/lbias/python-for-kids/blob/master/images/e31_len_function.png)
