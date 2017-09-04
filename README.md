@@ -20,3 +20,6 @@
 
 ### wizard list
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e7_wizard_list.png)
+
+### draw square
+![](https://github.com/lbias/python-for-kids/blob/master/images/e8_turtle1.png)
