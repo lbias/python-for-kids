@@ -14,3 +14,6 @@
 
 ### list of lists
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e5_list_of_lists.png)
+
+### quote escaping
+![](https://github.com/lbias/python-for-kids/blob/master/images/e6_quote_escaping.png)
