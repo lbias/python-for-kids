@@ -23,3 +23,6 @@
 
 ### draw square
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e8_turtle1.png)
+
+### draw parallel	lines
+![](https://github.com/lbias/python-for-kids/blob/master/images/e9_turtle2.png)
