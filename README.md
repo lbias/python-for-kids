@@ -44,3 +44,6 @@
 
 ### huge hairy pants using for
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e15_huge_hairy_pants1.png)
+
+### huge hairy pants using two for loops
+![](https://github.com/lbias/python-for-kids/blob/master/images/e16_huge_hairy_pants2.png)
