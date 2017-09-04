@@ -68,3 +68,6 @@
 
 ### spaceship building
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e23_spaceship_building.png)
+
+### your age
+![](https://github.com/lbias/python-for-kids/blob/master/images/e24_your_age.png)
