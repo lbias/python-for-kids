@@ -41,3 +41,6 @@
 
 ### five hellos using for
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e14_five_hellos.png)
+
+### huge hairy pants using for
+![](https://github.com/lbias/python-for-kids/blob/master/images/e15_huge_hairy_pants1.png)
