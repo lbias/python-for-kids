@@ -77,3 +77,6 @@
 
 ### giraffes
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e26_giraffes1.png)
+
+### initialize an object Giraffes
+![](https://github.com/lbias/python-for-kids/blob/master/images/e27_giraffes2.png)
