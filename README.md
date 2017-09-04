@@ -17,3 +17,6 @@
 
 ### quote escaping
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e6_quote_escaping.png)
+
+### wizard list
+![](https://github.com/lbias/python-for-kids/blob/master/images/e7_wizard_list.png)
