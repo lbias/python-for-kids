@@ -11,3 +11,6 @@
 
 ### furniture placeholder
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e4_furniture_placeholder.png)
+
+### list of lists
+![](https://github.com/lbias/python-for-kids/blob/master/images/e5_list_of_lists.png)
