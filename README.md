@@ -56,3 +56,6 @@
 
 ### wizard list loop
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e19_wizard-list-loop.png)
+
+### calculate savings
+![](https://github.com/lbias/python-for-kids/blob/master/images/e20_savings.png)
