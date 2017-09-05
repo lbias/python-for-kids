@@ -152,3 +152,6 @@
 
 ### draw car
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e51_car.png)
+
+### draw spiral star
+![](https://github.com/lbias/python-for-kids/blob/master/images/e52_spiral_star.png)
