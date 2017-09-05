@@ -176,3 +176,6 @@
 
 ### draw random rectangles
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e59_random_rectangles.png)
+
+### draw square
+![](https://github.com/lbias/python-for-kids/blob/master/images/e60_square.png)
