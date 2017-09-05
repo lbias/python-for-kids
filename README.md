@@ -185,3 +185,6 @@
 
 ### rectangle colorchooser
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e62_rectangle_colorchooser.png)
+
+### draw arcs
+![](https://github.com/lbias/python-for-kids/blob/master/images/e63_drawing_arcs.png)
