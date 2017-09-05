@@ -191,3 +191,6 @@
 
 ### draw polygons
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e64_drawing_polygons.png)
+
+### draw text
+![](https://github.com/lbias/python-for-kids/blob/master/images/e65_drawing_text.png)
