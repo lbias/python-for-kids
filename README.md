@@ -107,3 +107,6 @@
 
 ### copy, deepcopy
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e36_copying_objects2.png)
+
+### guess a random number
+![](https://github.com/lbias/python-for-kids/blob/master/images/e37_guess_a_number.png)
