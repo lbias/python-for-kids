@@ -125,3 +125,6 @@
 
 ### square function
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e42_square_function.png)
+
+### eight point star
+![](https://github.com/lbias/python-for-kids/blob/master/images/e43_eight_point_star.png)
