@@ -200,3 +200,6 @@
 
 ### basic animation
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e67_basic_animation1.png)
+
+### basic animation round trip
+![](https://github.com/lbias/python-for-kids/blob/master/images/e68_basic_animation2.png)
