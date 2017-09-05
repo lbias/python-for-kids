@@ -208,4 +208,7 @@
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e69_using_events1.png)
 
 ### move with up, down, left, right key pressed
-![](https://github.com/lbias/python-for-kids/blob/master/images/e69_using_events1.png)
+![](https://github.com/lbias/python-for-kids/blob/master/images/e70_using_events2.png)
+
+### object move
+![](https://github.com/lbias/python-for-kids/blob/master/images/e71_using_move.png)
