@@ -194,3 +194,6 @@
 
 ### draw text
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e65_drawing_text.png)
+
+### draw image
+![](https://github.com/lbias/python-for-kids/blob/master/images/e66_drawing_images.png)
