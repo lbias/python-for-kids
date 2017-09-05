@@ -218,3 +218,6 @@
 
 ### the ball bouncing with random starting direction
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e77_bounce5.png)
+
+### game over once the ball touches the bottom
+![](https://github.com/lbias/python-for-kids/blob/master/images/e81_bounce9.png)
