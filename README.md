@@ -134,3 +134,6 @@
 
 ### nine point star
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e45_nine_point_star.png)
+
+### green circle
+![](https://github.com/lbias/python-for-kids/blob/master/images/e46_green_circle.png)
