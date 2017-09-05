@@ -116,3 +116,6 @@
 
 ### pickle saving data
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e39_pickle_saving.png)
+
+### random desserts
+![](https://github.com/lbias/python-for-kids/blob/master/images/e40_random_desserts.png)
