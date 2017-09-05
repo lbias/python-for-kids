@@ -188,3 +188,6 @@
 
 ### draw arcs
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e63_drawing_arcs.png)
+
+### draw polygons
+![](https://github.com/lbias/python-for-kids/blob/master/images/e64_drawing_polygons.png)
