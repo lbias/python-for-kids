@@ -173,3 +173,6 @@
 
 ### draw horizontal rectangle
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e58_horizontal_rectangle.png)
+
+### draw random rectangles
+![](https://github.com/lbias/python-for-kids/blob/master/images/e59_random_rectangles.png)
