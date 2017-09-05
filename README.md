@@ -143,3 +143,6 @@
 
 ### dark green circle
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e48_dark_green_circle.png)
+
+### for loop square
+![](https://github.com/lbias/python-for-kids/blob/master/images/e49_for_loop_square.png)
