@@ -206,3 +206,6 @@
 
 ### move when enter key pressed
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e69_using_events1.png)
+
+### move with up, down, left, right key pressed
+![](https://github.com/lbias/python-for-kids/blob/master/images/e69_using_events1.png)
