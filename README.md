@@ -140,3 +140,6 @@
 
 ### yellow circle
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e47_yellow_circle.png)
+
+### dark green circle
+![](https://github.com/lbias/python-for-kids/blob/master/images/e48_dark_green_circle.png)
