@@ -104,3 +104,6 @@
 
 ### copy objects
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e35_copying_objects1.png)
+
+### copy, deepcopy
+![](https://github.com/lbias/python-for-kids/blob/master/images/e36_copying_objects2.png)
