@@ -161,3 +161,6 @@
 
 ### clickable button with tkinter
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e54_clickable_button1.png)
+
+### clickable button
+![](https://github.com/lbias/python-for-kids/blob/master/images/e55_clickable_button2.png)
