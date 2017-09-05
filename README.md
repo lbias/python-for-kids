@@ -197,3 +197,6 @@
 
 ### draw image
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e66_drawing_images.png)
+
+### basic animation
+![](https://github.com/lbias/python-for-kids/blob/master/images/e67_basic_animation1.png)
