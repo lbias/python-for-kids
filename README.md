@@ -110,3 +110,6 @@
 
 ### guess a random number
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e37_guess_a_number.png)
+
+### pickle loading
+![](https://github.com/lbias/python-for-kids/blob/master/images/e38_pickle_loading.png)
