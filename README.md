@@ -167,3 +167,6 @@
 
 ### draw diagonal line
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e56_diagonal_line.png)
+
+### draw vertical rectangle
+![](https://github.com/lbias/python-for-kids/blob/master/images/e57_vertical_rectangle.png)
