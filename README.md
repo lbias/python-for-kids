@@ -203,3 +203,6 @@
 
 ### basic animation round trip
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e68_basic_animation2.png)
+
+### move when enter key pressed
+![](https://github.com/lbias/python-for-kids/blob/master/images/e69_using_events1.png)
