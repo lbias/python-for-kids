@@ -146,3 +146,6 @@
 
 ### for loop square
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e49_for_loop_square.png)
+
+### filled squares
+![](https://github.com/lbias/python-for-kids/blob/master/images/e50_filled_squares.png)
