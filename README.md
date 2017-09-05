@@ -128,3 +128,6 @@
 
 ### eight point star
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e43_eight_point_star.png)
+
+### many point star
+![](https://github.com/lbias/python-for-kids/blob/master/images/e44_many_point_star.png)
