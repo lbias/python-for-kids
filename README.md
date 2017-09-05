@@ -182,3 +182,6 @@
 
 ### draw coloured rectangles
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e61_coloured_rectangles.png)
+
+### rectangle colorchooser
+![](https://github.com/lbias/python-for-kids/blob/master/images/e62_rectangle_colorchooser.png)
