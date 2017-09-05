@@ -149,3 +149,6 @@
 
 ### filled squares
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e50_filled_squares.png)
+
+### draw car
+![](https://github.com/lbias/python-for-kids/blob/master/images/e51_car.png)
