@@ -212,3 +212,6 @@
 
 ### object move
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e71_using_move.png)
+
+### make changes to the drawing
+![](https://github.com/lbias/python-for-kids/blob/master/images/e72_using_itemconfig.png)
