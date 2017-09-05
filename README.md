@@ -215,3 +215,6 @@
 
 ### make changes to the drawing
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e72_using_itemconfig.png)
+
+### the ball bouncing with random starting direction
+![](https://github.com/lbias/python-for-kids/blob/master/images/e77_bounce5.png)
