@@ -179,3 +179,6 @@
 
 ### draw square
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e60_square.png)
+
+### draw coloured rectangles
+![](https://github.com/lbias/python-for-kids/blob/master/images/e61_coloured_rectangles.png)
