@@ -131,3 +131,6 @@
 
 ### many point star
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e44_many_point_star.png)
+
+### nine point star
+![](https://github.com/lbias/python-for-kids/blob/master/images/e45_nine_point_star.png)
