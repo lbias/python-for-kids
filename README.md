@@ -122,3 +122,6 @@
 
 ### timing one billion numbers
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e41_timing_lots_of_numbers.png)
+
+### square function
+![](https://github.com/lbias/python-for-kids/blob/master/images/e42_square_function.png)
