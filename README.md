@@ -113,3 +113,6 @@
 
 ### pickle loading
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e38_pickle_loading.png)
+
+### pickle saving data
+![](https://github.com/lbias/python-for-kids/blob/master/images/e39_pickle_saving.png)
