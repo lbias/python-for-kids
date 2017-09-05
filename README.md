@@ -164,3 +164,6 @@
 
 ### clickable button
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e55_clickable_button2.png)
+
+### draw diagonal line
+![](https://github.com/lbias/python-for-kids/blob/master/images/e56_diagonal_line.png)
