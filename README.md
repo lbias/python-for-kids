@@ -101,3 +101,6 @@
 
 ### range function
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e34_range_function.png)
+
+### copy objects
+![](https://github.com/lbias/python-for-kids/blob/master/images/e35_copying_objects1.png)
