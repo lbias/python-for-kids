@@ -170,3 +170,6 @@
 
 ### draw vertical rectangle
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e57_vertical_rectangle.png)
+
+### draw horizontal rectangle
+![](https://github.com/lbias/python-for-kids/blob/master/images/e58_horizontal_rectangle.png)
