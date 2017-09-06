@@ -221,3 +221,6 @@
 
 ### game over once the ball touches the bottom
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e81_bounce9.png)
+
+### add a bunch of platforms
+![](https://github.com/lbias/python-for-kids/blob/master/images/e85_stickmangame4.png)
