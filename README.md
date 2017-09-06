@@ -224,3 +224,6 @@
 
 ### add a bunch of platforms
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e85_stickmangame4.png)
+
+### the stick figure can run, jump from the platform to platform, and fall
+![](https://github.com/lbias/python-for-kids/blob/master/images/e87_stickmangame6.png)
