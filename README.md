@@ -227,3 +227,6 @@
 
 ### the stick figure can run, jump from the platform to platform, and fall
 ![](https://github.com/lbias/python-for-kids/blob/master/images/e87_stickmangame6.png)
+
+### add the door, end the game
+![](https://github.com/lbias/python-for-kids/blob/master/images/e88_stickmangame7.png)
